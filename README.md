@@ -45,4 +45,4 @@ Gets the status of your deposit/withdraw requests
 
 This lib is like Dogshit, first time i tested doing smth like this so get fucked
 
-Gets the status of 
+Will upload the actual lib later lol
