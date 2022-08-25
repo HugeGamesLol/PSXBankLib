@@ -7,6 +7,8 @@ also this is VERY Experimental, and might not be tip top condition omg, but it's
 This Library makes it 100x easier for idiots to use banks :)
 Instead of passing just BankID, you can use either Username, UserID or Bankid, Example: GetBank("YourRobloxName")
 
+`local Lib = https://raw.githubusercontent.com/HugeGamesLol/PSXBankLib/main/Lib.lua`
+
 ###### **Lib.Deposit**
 Lib.Deposit([Name/UID/BUID], [PetsTable], [GemsAmount])
 Returns: ActionID
